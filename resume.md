@@ -42,7 +42,7 @@ Last year I finished RSS JavaScript courses.
   
 
 
-## English (elaborate on what kind of practice you had, if any, how long it lasted and so on)
+## English
 As EPAM English assesment showed I have **B1** level.  
 I used to study English at school and one year at university and currently I am attending English courses.  
 Regarding practice, I have to speak English with POs and colleagues at work&
